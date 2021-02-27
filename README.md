@@ -1,5 +1,5 @@
 # blackout
-Java String Boot Backend API to allow persons to subscribe to "blackout" notifications: unexpected or scheduled electricity (or other utility) shortages
+Java Spring Boot Backend API to allow persons to subscribe to "blackout" notifications: unexpected or scheduled electricity (or other utility) shortages
 
 Many companies in the public utility sector does not have yet an effiecent way to provide notifications to their clients about planned
 or accidental distruption  of their services.
