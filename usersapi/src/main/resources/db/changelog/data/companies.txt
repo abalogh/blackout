@@ -1,0 +1,7 @@
+'id';'name';'utility_type'
+'3323e80a-caa5-4ee3-8b77-dd5948d58121';'Electrica';1
+'ae0c57e6-0be3-4644-bcfc-f9a7ff2f55de';'EON';2
+'620beccb-470a-4628-8adb-3590df059c64';'AQUASERV';3
+'e976e356-00d1-42cc-99e8-748e651d7f4d';'AQUASERV';4
+'ece21b4c-e455-4f09-b886-fca712154d35';'RDS';5
+'06cd34ff-d2fd-4d9d-9d11-1367f75e41f8';'Sylevy';6
