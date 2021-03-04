@@ -12,7 +12,7 @@ This project is imagined as three main parts:
 2. A mobile app that will display and alert the users about service interuptions happening in their region
 3. A scraper app that will scrape the websites (or other channels) of major utility companies
 
-Running the REST APIs
+##Running the REST APIs
 
 1. Install keycloak (https://www.keycloak.org/downloads) locally and start it with:
 ```
@@ -29,11 +29,11 @@ mvn spring-boot:run
 POST http://localhost:8180/auth/realms/Blackout
 Content-Type: application/x-www-form-urlencoded
 
-client_id=<YOUR_OUATH_CLIENT>&username=<OUATH_USER>&password=<OUATH_PASSWORD>&grant_type=password
+client_id=<YOUR_OAUTH_CLIENT>&username=<OAUTH_USER>&password=<OAUTH_PASSWORD>&grant_type=password
 
 ```
 
-4. Call any API endpoint with Authorization Bearer ... Header or use swagger-ui to inspect any try the api
+4. Call any API endpoint with Authorization Bearer ... Header or use swagger-ui to inspect and try the api
 ```
 http://localhost:8080/swagger-ui.html
 ```  
